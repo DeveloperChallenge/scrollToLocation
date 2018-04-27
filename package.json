@@ -1,0 +1,41 @@
+{
+  "name": "scrolltolocation",
+  "version": "1.0.0",
+  "description": "scroll to location using jquery - modular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperChallenge/scrollToLocation.git"
+  },
+  "keywords": [
+    "scroll",
+    "to",
+    "top",
+    "scroll",
+    "to",
+    "div",
+    "scroll",
+    "to",
+    "id",
+    "scroll",
+    "to",
+    "top",
+    "using",
+    "jquery",
+    "of",
+    "javascript"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperChallenge/scrollToLocation/issues"
+  },
+  "homepage": "https://github.com/DeveloperChallenge/scrollToLocation#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
